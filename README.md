@@ -2,13 +2,13 @@
 title: MMC Token Generator | Create your own BEP20 Token
 home: true
 heroText: Token Generator
-tagline: Create your own ERC20 or BEP20 Token in less than a minute.
+tagline: Create your own BEP20 Token in less than a minute.
 actionText: Get Started →
 actionLink: /docs/
 navbar: true
 meta: 
     - property: og:url
-      content: https://mademycrypto.github.io/tokengenerator.github.io/
+      content: https://mademycrypto.github.io/
     - property: og:title
       content: MMC Token Generator | Create your own BEP20 Token
     - property: og:description
