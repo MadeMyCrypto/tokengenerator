@@ -8,7 +8,7 @@ actionLink: /docs/
 navbar: true
 meta: 
     - property: og:url
-      content: https://mademycrypto.github.io/
+      content: https://mademycrypto.github.io/tokengenerator.github.io/
     - property: og:title
       content: MMC Token Generator | Create your own BEP20 Token
     - property: og:description
